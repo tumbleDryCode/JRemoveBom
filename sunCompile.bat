@@ -1,0 +1,2 @@
+javac -nowarn *.java
+pause
